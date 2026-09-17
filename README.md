@@ -2,6 +2,8 @@
 
 麻雀の点数を、条件を見て声に出すためのブラウザ練習アプリです。
 
+[アプリを開く](https://mahjong-study-lab.github.io/mahjong-score-ondoku/)
+
 ## 使い方
 
 1. ステージとレッスンを選ぶ。
