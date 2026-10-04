@@ -54,3 +54,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+3. Mahjong tile-face artwork
+
+- Creator: FluffyStuff
+- Source: https://github.com/FluffyStuff/riichi-mahjong-tiles
+- Revision: 26e127ba2117f45cdce5ea0225748cc0cfad3169
+- License: CC0 1.0 Universal (CC0-1.0)
+- License notice: https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/26e127ba2117f45cdce5ea0225748cc0cfad3169/LICENSE.md
+- Legal text: https://creativecommons.org/publicdomain/zero/1.0/legalcode
+
+Uses 33 non-white faces from the Regular SVG set. Drawing-layer metadata and
+unused definitions are excluded; local SVG references are expanded. Oversized
+black backing circles in Pin6 through Pin9 are removed for small-size clarity.
+Inner motifs, colours and positions are preserved. Tile frames and the blank
+white face are provided by this project, not by the external artwork set.
